@@ -1,4 +1,4 @@
-# fork_5G_bda1
+# 5G_BDA (5G Bidding Down Attack)
 ## Protocol flows
 <p align="center">
   <img src="https://github.com/SitrakaResearchAndPOC/fork_5G_bda1/blob/main/5g_bda.jpg">
