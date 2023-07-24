@@ -1,4 +1,9 @@
 # fork_5G_bda1
+## Protocol flows
+<p align="center">
+  <img src="https://github.com/SitrakaResearchAndPOC/fork_5G_bda1/blob/main/5g_bda.jpg">
+</p>
+## Documentations
 * https://radix-security.com/files/2021_downgrade.pdf
 * https://radix-security.com/research/5g-downgrade/
 * https://www.techplayon.com/5g-nas-pdu-session-reject-cause-values-and-reasons/
